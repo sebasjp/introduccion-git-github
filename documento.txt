@@ -1,0 +1,7 @@
+Este es la primera version de nuestro documento.
+
+Esta version contara los pasos que hemos ejecutado hasta el momento:
+1. Creamos una carpeta local en nuestra maquina
+2. Luego creamos nuestro repositorio con git init.
+3. Configuramos git con nuestro nombre y correo, esto ayudara a trackear los cambios.
+
