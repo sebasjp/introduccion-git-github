@@ -4,4 +4,6 @@ Esta version contara los pasos que hemos ejecutado hasta el momento:
 1. Creamos una carpeta local en nuestra maquina
 2. Luego creamos nuestro repositorio con git init.
 3. Configuramos git con nuestro nombre y correo, esto ayudara a trackear los cambios.
-
+4. Ejecucion de git status
+5. git add
+6. git commit -m "mensaje"
